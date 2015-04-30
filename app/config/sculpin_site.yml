@@ -2,8 +2,9 @@
 # via `site.*`. So for example, {{ site.title }} can be used
 # in a template to get the contents of the `title` key.
 title: MisFacturas.space
-subtitle: Software que te ayuda a guardar tus facturas electrónicas
+subtitle: Nuestro sistema te ayuda a guardar y mantener ordenadas y seguras tus facturas electrónicas, puedes buscarlas, obtener estadísticas.
 
+google_analytics_tracking_id: UA-62298489-1
 # Insert your disqus shortname
 #disqus:
 #    shortname:
