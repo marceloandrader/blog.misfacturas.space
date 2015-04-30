@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[MisFacturas.space]]></title>
+    <link href="/atom.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2015-04-30T21:12:15+00:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Por qué Mis Facturas.space]]></title>
+            <link href="/blog/2015/04/30/por-que-mis-facturas-space"/>
+            <updated>2015-04-30T00:00:00+00:00</updated>
+            <id>/blog/2015/04/30/por-que-mis-facturas-space</id>
+            <content type="html"><![CDATA[<p>Mi nombre es <a href="https://twitter.com/MarceloAndrade">Marcelo Andrade</a>, soy desarrollador de software. 
+Junto con mi esposa vimos muy difícil manejar las facturas
+que comenzaron a llegar a nuestro email, siendo un aficionado
+de Inbox Zero, me molestaba tener todas las facturas pendientes
+en mi Inbox, porque sabía que en algún momento las iba a necesitar
+y el mail no era el mejor lugar para archivarlas.</p>
+
+<p>Como buen desarrollador de software, tenía que hacer algo al respecto 
+<a href="http://es.wikipedia.org/wiki/La_catedral_y_el_bazar">"rascar mi propia comezón"</a>, 
+por lo que nació <a href="http://www.misfacturas.space">MisFacturas.space</a> es una herramienta
+que en principio la escribí para junto con mi esposa tener todas
+nuestras facturas electrónicass en un solo lugar y tener otros beneficios
+como poder encontrar fácilmente, tener estadísticas de nuestros gastos,
+y en un futuro poder usar esta misma herramienta para ingresar
+nuestras facturas físicas y poder obtener nuestro anexo de
+gastos personales requerido por el Servicio de Rentas Internas.</p>
+
+<p>Sabemos que muchos de nuestros amigos y familia también tienen
+esta necesidad, por lo que decidimos compartirla creando este
+servicio, el valor que estamos cobrando aproximadamente 1.6 USD
+mensuales (19 cada año) nos ayuda con los gastos que hay que solventar para
+mantener la aplicación al aire, como hosting, nombre de dominio,
+certificados SSL, etc, y también nos permite cubrir en parte 
+el tiempo que dedicamos a escribir el software, dar mantenimiento
+y administrar el sistema.</p>
+
+<p>No vemos este servicio como un <a href="http://es.wikipedia.org/wiki/Business-to-business">B2B</a>
+o <a href="http://es.wikipedia.org/wiki/B2C">B2C</a>, sino como un 
+<a href="http://www.bryankramer.com/there-is-no-more-b2b-or-b2c-its-human-to-human-h2h/">H2H</a> human to human, 
+somos humanos tras el servicio y lo ofertamos a otros humanos que
+lo necesitan.</p>
+]]></content>
+        </entry>
+    </feed>
