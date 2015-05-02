@@ -11,5 +11,5 @@ administración de facturas electrónicas [MisFacturas.space](http://www.misfact
 Danos un like en [ Facebook ](https://www.facebook.com/MisFacturasSpace)
 o siguenos en [ Twitter ](https://twitter.com/MisFacturasEC)
 
-Los autores de este blog somos: [ Marcelo Andrade ](https://twitter.com/MarceloAndrade)
-y [ Cristina Medina ]().
+Los autores de este blog somos: [ Marcelo Andrade ](mailto:marcelo@misfacturas.space)
+y [ Cristina Medina ](mailto:cristina@misfacturas.space).
