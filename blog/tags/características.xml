@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[MisFacturas.space]]></title>
+    <link href="/blog/tags/características.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2015-05-04T15:15:05+00:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Opción de carga de facturas por medio de Clave de Acceso]]></title>
+            <link href="/blog/2015/05/04/opcion-carga-facturas-clave-acceso"/>
+            <updated>2015-05-04T00:00:00+00:00</updated>
+            <id>/blog/2015/05/04/opcion-carga-facturas-clave-acceso</id>
+            <content type="html"><![CDATA[<p>Hemos hecho una actualización a la aplicación para poder guardar
+una factura a través de la clave de acceso, no necesitas el archivo
+XML, solo es necesario ingresar el número de 49 dígitos que normalmente
+está debajo del código de barras en el documento PDF:</p>
+
+<p><img src="/images/clave-acceso.png" alt="Clave de Acceso en PDF" /></p>
+
+<p>Una vez ingresado se da clic en el botón Consultar y realizará
+una consulta al sistema del SRI para obtener la factura y
+la guardará en el sistema.</p>
+]]></content>
+        </entry>
+    </feed>
