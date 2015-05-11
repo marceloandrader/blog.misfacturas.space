@@ -3,9 +3,25 @@
     <title><![CDATA[MisFacturas.space]]></title>
     <link href="/blog/tags/características.xml" rel="self"/>
     <link href="/"/>
-    <updated>2015-05-04T15:15:05+00:00</updated>
+    <updated>2015-05-11T22:24:33+00:00</updated>
     <id>/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[MisFacturas.space ahora con Facebook Login]]></title>
+            <link href="/blog/2015/05/11/misfacturas-space-ahora-con-facebook-login"/>
+            <updated>2015-05-11T00:00:00+00:00</updated>
+            <id>/blog/2015/05/11/misfacturas-space-ahora-con-facebook-login</id>
+            <content type="html"><![CDATA[<p>Ahora puedes entrar al sistema tan solo con un clic en el botón
+de Facebook Login, es una alternativa al sistema actual de
+login sin password, la conexión con facebook es solo de lectura
+solo obtenemos tus datos básicos nombre, apellido e email para
+crear tu cuenta en nuestro sistema.</p>
+
+<p><strong>No posteamos nada en tu muro en tu nombre</strong></p>
+
+<p><img src="/images/fb-login.png" alt="Facebook Login" /></p>
+]]></content>
+        </entry>
             <entry>
             <title type="html"><![CDATA[Opción de carga de facturas por medio de Clave de Acceso]]></title>
             <link href="/blog/2015/05/04/opcion-carga-facturas-clave-acceso"/>
